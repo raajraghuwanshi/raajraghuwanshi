@@ -2,12 +2,12 @@
 
 # 👋 Hey, I'm Raj Raghuwanshi
 
-### MERN Stack Developer | Web Developer | UI Enthusiast
+### MERN Stack Developer | Full-Stack Developer | UI Enthusiast
 
-Building modern, responsive web experiences and exploring the world of full-stack development.
+Building modern web experiences, crafting clean interfaces, and turning ideas into functional applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi)
-[![Profile Views](https://komarev.com/ghpvc/?username=raajraghuwanshi&style=for-the-badge&color=6C63FF)](https://github.com/raajraghuwanshi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi)
+[![Tech](https://img.shields.io/badge/Full--Stack_Development-6C63FF?style=for-the-badge&logo=code)](https://github.com/raajraghuwanshi?tab=repositories)
 
 </div>
 
@@ -15,26 +15,47 @@ Building modern, responsive web experiences and exploring the world of full-stac
 
 ## 🚀 About Me
 
-- 💻 I'm a **MERN Stack Developer** passionate about building for the web.
-- 🎨 I enjoy creating responsive websites and experimenting with modern UI designs.
-- 🌱 I'm continuously learning and improving my development skills.
-- 🛠️ I work on frontend experiences and full-stack web application projects.
-- 🤝 I'm open to collaborating on interesting web development projects.
+- 💻 Passionate about building modern, responsive web applications.
+- 🎨 Interested in UI/UX, creative website redesigns, and interactive experiences.
+- ⚙️ Exploring full-stack development, backend architecture, and authentication systems.
+- 🌱 Always learning new technologies and improving my development workflow.
+- 🤝 Open to collaborating on interesting projects and innovative ideas.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+### 🎨 Frontend Development
 
-### Backend & Database
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tools & Workflow
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔐 Authentication & Security
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-4B32C3?style=for-the-badge&logo=auth0&logoColor=white)
+
+### 🔧 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -46,46 +67,65 @@ Building modern, responsive web experiences and exploring the world of full-stac
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Sheryians Website Clone
+### ⚫ Nothing Website Redesign
 
-A responsive recreation of the Sheryians Coding School homepage, designed for laptop and mobile screens.
+A modern website redesign inspired by Nothing's minimalist design language, focusing on bold visuals and clean layouts.
 
-**Focus:** Responsive web design
+**Focus:** UI/UX · Responsive Design · Frontend Development
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi/sheryians-clone)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi/Nothing)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚫ Nothing Website Redesign
+### 📄 Typst Resume Builder
 
-A creative website redesign inspired by Nothing's distinctive, minimalist visual identity.
+A resume-building project focused on creating clean, structured, and professional resumes using Typst.
 
-**Focus:** UI design and frontend development
+**Focus:** Document Design · Resume Formatting · Typst
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi/Nothing)
+[![Explore Projects](https://img.shields.io/badge/Explore_Repositories-6C63FF?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Authentication Project
+### 📋 Copy-Paste
 
-A backend-focused authentication project built using Node.js, Express, and MongoDB.
+A project focused on simplifying content copying and pasting through a convenient web experience.
 
-**Focus:** Backend development and authentication
+**Focus:** Frontend Development · UI Design · JavaScript
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi/Authentication-project)
+[![Explore Projects](https://img.shields.io/badge/Explore_Repositories-6C63FF?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 More Projects
+### 🖥️ Copy-Paste Backend
 
-Explore my repositories for more website experiments, redesigns, and development projects.
+The backend companion to Copy-Paste, focused on server-side functionality and API development.
 
-[![Explore Repositories](https://img.shields.io/badge/Explore_All_Projects-6C63FF?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi?tab=repositories)
+**Focus:** Node.js · Express.js · Backend Development
+
+[![Explore Projects](https://img.shields.io/badge/Explore_Repositories-6C63FF?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎓 Learning Platform
+
+A web development project focused on creating a platform for learning and accessing educational content.
+
+**Focus:** Full-Stack Development · Responsive UI · Web Applications
+
+<div align="center">
+
+[![Explore Projects](https://img.shields.io/badge/Explore_Repositories-6C63FF?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi?tab=repositories)
+
+</div>
 
 </td>
 </tr>
@@ -97,11 +137,11 @@ Explore my repositories for more website experiments, redesigns, and development
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raajraghuwanshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raj's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raajraghuwanshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raj's GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raajraghuwanshi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raajraghuwanshi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=raajraghuwanshi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=raajraghuwanshi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -109,13 +149,13 @@ Explore my repositories for more website experiments, redesigns, and development
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, building, and connecting with fellow developers.
-
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi)
+Interested in collaborating, building something exciting, or discussing web development? Feel free to explore my work and connect!
 
-**Thanks for visiting my profile!** ⭐
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/raajraghuwanshi)
+
+### ⭐ Thanks for visiting my profile!
 
 *Keep learning. Keep building. Keep growing.* 🚀
 
